@@ -113,3 +113,5 @@ countries: ar co es mx
 "None" = "Ninguno"
 "Newly connected output device" = "Dispositivo de salida recién conectado"
 "Hide notifications" = "Ocultar notificaciones"
+"Audio" = "Audio"
+"Normalize Volume" = "Normalizar volumen"

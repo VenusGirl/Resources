@@ -113,3 +113,5 @@ countries: pt
 "None" = "Nenhum"
 "Newly connected output device" = "Dispositivo de saída recentemente conectado"
 "Hide notifications" = "Ocultar notificações"
+"Audio" = "Áudio"
+"Normalize Volume" = "Normalizar o volume"

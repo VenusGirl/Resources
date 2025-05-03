@@ -114,3 +114,5 @@ countries: ro
 "None" = "Niciuna"
 "Newly connected output device" = "Dispozitiv de ieșire conectat recent"
 "Hide notifications" = "Ascunde notificările"
+"Audio" = "Audio"
+"Normalize Volume" = "Normalizează volumul"

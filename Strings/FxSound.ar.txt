@@ -115,3 +115,5 @@ countries: EG sa
 "None" = "لا شيء"
 "Newly connected output device" = "الأجهزة المتصل حديثًا"
 "Hide notifications" = "إخفاء الإشعارات"
+"Audio" = "الصوت"
+"Normalize Volume" = "تسوية مستوى الصوت"

@@ -114,3 +114,5 @@ countries: nl be
 "None" = "Geen"
 "Newly connected output device" = "Nieuw aangesloten uitvoerapparaat"
 "Hide notifications" = "Meldingen verbergen"
+"Audio" = "Audio"
+"Normalize Volume" = "Volume normaliseren"

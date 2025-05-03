@@ -114,3 +114,5 @@ countries: hu
 "None" = "Egyik sem"
 "Newly connected output device" = "Újonnan csatlakoztatott kimeneti eszköz"
 "Hide notifications" = "Értesítések elrejtése"
+"Audio" = "Hang"
+"Normalize Volume" = "Hangerő normalizálása"

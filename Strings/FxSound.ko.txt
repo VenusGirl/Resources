@@ -114,3 +114,5 @@ countries: kr
 "None" = "없음"
 "Newly connected output device" = "새로 연결된 출력 장치"
 "Hide notifications" = "알림 숨기기"
+"Audio" = "오디오"
+"Normalize Volume" = "볼륨을 정규화"

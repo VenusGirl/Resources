@@ -113,4 +113,5 @@ countries: [IR, FA]
 "None" = "هیچ"
 "Newly connected output device" = "دستگاه خروجی متصل شده جدید"
 "Hide notifications" = "مخفی کردن اعلان‌ها"
-
+"Audio" = "صدا"
+"Normalize Volume" = "نرمال‌سازی حجم صدا"

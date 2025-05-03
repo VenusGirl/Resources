@@ -113,3 +113,5 @@ countries: ua
 "None" = "Нічого"
 "Newly connected output device" = "Нещодавно підключений пристрій виведення звуку"
 "Hide notifications" = "Приховати сповіщення"
+"Audio" = "Аудіо"
+"Normalize Volume" = "Нормалізувати гучність"

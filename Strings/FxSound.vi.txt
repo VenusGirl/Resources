@@ -114,3 +114,5 @@ countries: vn
 "None" = "Không có"
 "Newly connected output device" = "Thiết bị đầu ra vừa được kết nối"
 "Hide notifications" = "Ẩn thông báo"
+"Audio" = "Âm thanh"
+"Normalize Volume" = "Chuẩn hóa âm lượng"
