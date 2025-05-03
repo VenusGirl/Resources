@@ -114,3 +114,5 @@ countries: id
 "None" = "Tidak ada"
 "Newly connected output device" = "Perangkat keluaran yang baru terhubung"
 "Hide notifications" = "Sembunyikan notifikasi"
+"Audio" = "Audio"
+"Normalize Volume" = "Menormalkan volume suara"

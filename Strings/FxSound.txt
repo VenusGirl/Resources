@@ -113,3 +113,5 @@ countries: [enter list of 2-character country codes here!]
 "None" = "None"
 "Newly connected output device" = "Newly connected output device"
 "Hide notifications" = "Hide notifications"
+"Audio" = "Audio"
+"Normalize Volume" = "Normalize Volume"

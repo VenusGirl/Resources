@@ -113,3 +113,5 @@ countries: de at ch
 "None" = "Keine"
 "Newly connected output device" = "Neu verbundenes Ausgabegerät"
 "Hide notifications" = "Benachrichtigungen ausblenden"
+"Audio" = "Audio"
+"Normalize Volume" = "Lautstärke normalisieren"

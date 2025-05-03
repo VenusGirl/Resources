@@ -113,3 +113,5 @@ countries: ru
 "None" = "Ничего"
 "Newly connected output device" = "Недавно подключённое устройство вывода звука"
 "Hide notifications" = "Скрыть уведомления"
+"Audio" = "Аудио"
+"Normalize Volume" = "Нормализовать громкость"

@@ -114,3 +114,5 @@ countries: tr
 "None" = "Hiçbiri"
 "Newly connected output device" = "Yeni bağlanan çıkış cihazı"
 "Hide notifications" = "Bildirimleri gizle"
+"Audio" = "Ses"
+"Normalize Volume" = "Ses düzeyini eşitle"

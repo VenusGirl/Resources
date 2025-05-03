@@ -112,3 +112,5 @@ countries: Taiwan
 "None" = "無"
 "Newly connected output device" = "新連接的輸出裝置"
 "Hide notifications" = "隱藏通知"
+"Audio" = "音訊"
+"Normalize Volume" = "音量標準化"

@@ -114,3 +114,5 @@ countries: se
 "None" = "Ingen"
 "Newly connected output device" = "Nyansluten utgångsenhet"
 "Hide notifications" = "Dölj aviseringar"
+"Audio" = "Ljud"
+"Normalize Volume" = "Normalisera volymen"
