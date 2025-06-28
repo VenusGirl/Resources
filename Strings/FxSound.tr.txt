@@ -116,3 +116,7 @@ countries: tr
 "Hide notifications" = "Bildirimleri gizle"
 "Audio" = "Ses"
 "Normalize Volume" = "Ses düzeyini eşitle"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Ön ayarınızdaki değişiklikler kaydedilmedi.\r\nKaydetmek ister misiniz?"
+"Save Preset" = "Ön ayarı kaydet"
+"Save" = "Kaydet"
+"Cancel" = "İptal"

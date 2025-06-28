@@ -117,3 +117,7 @@ countries: EG sa
 "Hide notifications" = "إخفاء الإشعارات"
 "Audio" = "الصوت"
 "Normalize Volume" = "تسوية مستوى الصوت"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "تنويه: يرجى العلم بأنه لم يتم حفظ التغييرات التي أجريتها .\r\nهل تريد حفظها؟"
+"Save Preset" = "حفظ الإعداد المسبق"
+"Save" = "حفظ"
+"Cancel" = "إلغاء"

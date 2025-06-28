@@ -114,3 +114,7 @@ countries: cn sg
 "Hide notifications" = "隐藏通知"
 "Audio" = "音频"
 "Normalize Volume" = "音量标准化"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "对预设的更改尚未保存。\r\n你想保存吗？"
+"Save Preset" = "保存预设"
+"Save" = "保存"
+"Cancel" = "取消"

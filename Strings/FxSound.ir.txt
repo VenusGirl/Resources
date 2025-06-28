@@ -115,3 +115,7 @@ countries: [IR, FA]
 "Hide notifications" = "مخفی کردن اعلان‌ها"
 "Audio" = "صدا"
 "Normalize Volume" = "نرمال‌سازی حجم صدا"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "تغییرات تنظیمات شما ذخیره نشده‌اند.\r\nآیا می‌خواهید آن‌ها را ذخیره کنید؟"
+"Save Preset" = "ذخیره تنظیمات"
+"Save" = "ذخیره"
+"Cancel" = "لغو"

@@ -116,3 +116,7 @@ countries: hu
 "Hide notifications" = "Értesítések elrejtése"
 "Audio" = "Hang"
 "Normalize Volume" = "Hangerő normalizálása"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Az előbeállítás módosításai nem kerültek mentésre.\r\nSzeretné menteni őket?"
+"Save Preset" = "Előbeállítás mentése"
+"Save" = "Mentés"
+"Cancel" = "Mégse"
