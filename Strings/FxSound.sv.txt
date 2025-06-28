@@ -116,3 +116,7 @@ countries: se
 "Hide notifications" = "Dölj aviseringar"
 "Audio" = "Ljud"
 "Normalize Volume" = "Normalisera volymen"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Ändringarna på din förinställning är inte sparade.\r\nVill du spara dem?"
+"Save Preset" = "Spara förinställning"
+"Save" = "Spara"
+"Cancel" = "Avbryt"

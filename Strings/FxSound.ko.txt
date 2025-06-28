@@ -116,3 +116,7 @@ countries: kr
 "Hide notifications" = "알림 숨기기"
 "Audio" = "오디오"
 "Normalize Volume" = "볼륨을 정규화"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "변경된 프리셋이 저장되지 않았습니다.\r\n저장하시겠습니까?"
+"Save Preset" = "프리셋 저장"
+"Save" = "저장"
+"Cancel" = "취소"

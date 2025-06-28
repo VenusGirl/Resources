@@ -115,3 +115,7 @@ countries: ba
 "Hide notifications" = "Sakrij obavještenja"
 "Audio" = "Audio"
 "Normalize Volume" = "Normalizuj jačinu zvuka"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Promjene u profilu nisu sačuvane.\r\nŽelite li ih sačuvati?"
+"Save Preset" = "Sačuvaj profil"
+"Save" = "Sačuvaj"
+"Cancel" = "Otkaži"
