@@ -115,3 +115,11 @@ countries: [enter list of 2-character country codes here!]
 "Hide notifications" = "Hide notifications"
 "Audio" = "Audio"
 "Normalize Volume" = "Normalize Volume"
+"Equalizer:" = "Equalizer:"
+"Master Gain: = "Master Gain:
+"Normalization:" = "Normalization:"
+"Filter Q:" = "Filter Q:"
+"Balance:" = "Balance:"
+"Left" = "Left"
+"Right" = "Right"
+"%d Bands" = "%d Bands"
