@@ -125,4 +125,4 @@ countries: ua
 "Balance:" = "Баланс:"
 "Left" = "Ліво"
 "Right" = "Право"
-"%d Bands" = "%d смуг"
+" Bands" = " смуг"

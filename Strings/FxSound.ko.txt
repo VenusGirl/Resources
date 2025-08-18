@@ -126,4 +126,4 @@ countries: kr
 "Balance:" = "음균형:"
 "Left" = "왼쪽"
 "Right" = "오른쪽"
-"%d Bands" = "%d 밴드"
+" Bands" = " 밴드"

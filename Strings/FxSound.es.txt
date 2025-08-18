@@ -125,4 +125,4 @@ countries: ar co es mx
 "Balance:" = "Balance:"
 "Left" = "Izquierda"
 "Right" = "Derecha"
-"%d Bands" = "%d bandas"
+" Bands" = " bandas"

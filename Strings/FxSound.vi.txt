@@ -126,4 +126,4 @@ countries: vn
 "Balance:" = "Cân bằng:"
 "Left" = "Trái"
 "Right" = "Phải"
-"%d Bands" = "%d dải"
+" Bands" = " dải"

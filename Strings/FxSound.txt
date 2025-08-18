@@ -126,4 +126,4 @@ countries: [enter list of 2-character country codes here!]
 "Balance:" = "Balance:"
 "Left" = "Left"
 "Right" = "Right"
-"%d Bands" = "%d Bands"
+" Bands" = " Bands"

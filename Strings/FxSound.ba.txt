@@ -125,4 +125,4 @@ countries: ba
 "Balance:" = "Balans:"
 "Left" = "Lijevo"
 "Right" = "Desno"
-"%d Bands" = "%d opsega"
+" Bands" = " opsega"

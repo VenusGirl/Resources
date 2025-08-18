@@ -126,4 +126,4 @@ countries: tr
 "Balance:" = "Denge:"
 "Left" = "Sol"
 "Right" = "Sağ"
-"%d Bands" = "%d bant"
+" Bands" = " bant"

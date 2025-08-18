@@ -126,4 +126,4 @@ countries: se
 "Balance:" = "Balans:"
 "Left" = "Vänster"
 "Right" = "Höger"
-"%d Bands" = "%d band"
+" Bands" = " band"

@@ -126,4 +126,4 @@ countries: hu
 "Balance:" = "Egyensúly:"
 "Left" = "Bal"
 "Right" = "Jobb"
-"%d Bands" = "%d sáv"
+" Bands" = " sáv"

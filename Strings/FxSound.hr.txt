@@ -125,4 +125,4 @@ countries: HR
 "Balance:" = "Balans:"
 "Left" = "Lijevo"
 "Right" = "Desno"
-"%d Bands" = "%d pojaseva"
+" Bands" = " pojaseva"

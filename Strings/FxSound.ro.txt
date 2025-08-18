@@ -126,4 +126,4 @@ countries: ro
 "Balance:" = "Balans:"
 "Left" = "Stânga"
 "Right" = "Dreapta"
-"%d Bands" = "%d benzi"
+" Bands" = " benzi"

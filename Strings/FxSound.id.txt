@@ -126,4 +126,4 @@ countries: id
 "Balance:" = "Keseimbangan:"
 "Left" = "Kiri"
 "Right" = "Kanan"
-"%d Bands" = "%d pita"
+" Bands" = " pita"

@@ -124,4 +124,4 @@ countries: Taiwan
 "Balance:" = "聲道平衡:"
 "Left" = "左"
 "Right" = "右"
-"%d Bands" = "%d 頻段"
+" Bands" = " 頻段"
