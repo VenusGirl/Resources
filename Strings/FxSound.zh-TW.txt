@@ -114,3 +114,7 @@ countries: Taiwan
 "Hide notifications" = "隱藏通知"
 "Audio" = "音訊"
 "Normalize Volume" = "音量標準化"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "對預設的變更尚未儲存。\r\n您是否要儲存？"
+"Save Preset" = "儲存預設"
+"Save" = "儲存"
+"Cancel" = "取消"

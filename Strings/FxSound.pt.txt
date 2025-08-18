@@ -115,3 +115,7 @@ countries: pt
 "Hide notifications" = "Ocultar notificações"
 "Audio" = "Áudio"
 "Normalize Volume" = "Normalizar o volume"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "As alterações na sua predefinição não estão guardadas.\r\nDeseja guardá-las?"
+"Save Preset" = "Guardar predefinição"
+"Save" = "Guardar"
+"Cancel" = "Cancelar"

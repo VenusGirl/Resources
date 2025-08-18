@@ -116,3 +116,7 @@ countries: nl be
 "Hide notifications" = "Meldingen verbergen"
 "Audio" = "Audio"
 "Normalize Volume" = "Volume normaliseren"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Wijzigingen in uw preset zijn niet opgeslagen.\r\nWilt u deze opslaan?"
+"Save Preset" = "Preset opslaan"
+"Save" = "Opslaan"
+"Cancel" = "Annuleren"

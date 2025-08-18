@@ -116,3 +116,7 @@ countries: vn
 "Hide notifications" = "Ẩn thông báo"
 "Audio" = "Âm thanh"
 "Normalize Volume" = "Chuẩn hóa âm lượng"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Các thay đổi đối với cài đặt hiện tại của bạn vẫn chưa được lưu.\r\nBạn có muốn lưu không?"
+"Save Preset" = "Lưu cài đặt"
+"Save" = "Lưu"
+"Cancel" = "Hủy"

@@ -116,3 +116,7 @@ countries: id
 "Hide notifications" = "Sembunyikan notifikasi"
 "Audio" = "Audio"
 "Normalize Volume" = "Menormalkan volume suara"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Perubahan pada preset Anda belum disimpan.\r\nApakah Anda ingin menyimpannya?"
+"Save Preset" = "Simpan Preset"
+"Save" = "Simpan"
+"Cancel" = "Batal"

@@ -115,6 +115,10 @@ countries: [enter list of 2-character country codes here!]
 "Hide notifications" = "Hide notifications"
 "Audio" = "Audio"
 "Normalize Volume" = "Normalize Volume"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Changes to your preset are not saved.\r\nDo you want to save?"
+"Save Preset" = "Save Preset"
+"Save" = "Save"
+"Cancel" = "Cancel"
 "Equalizer:" = "Equalizer:"
 "Master Gain: = "Master Gain:
 "Normalization:" = "Normalization:"

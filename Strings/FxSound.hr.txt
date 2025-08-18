@@ -115,3 +115,7 @@ countries: HR
 "Hide notifications" = "Sakrij obavijesti"
 "Audio" = "Hang"
 "Normalize Volume" = "Hangerő normalizálása"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Promjene za vaš preset nisu sačuvane.\r\nŽelite li ih spremiti?"
+"Save Preset" = "Spremi postavku"
+"Save" = "Spremi"
+"Cancel" = "Odustani"

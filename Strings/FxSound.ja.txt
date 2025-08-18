@@ -116,3 +116,7 @@ countries: ja
 "Hide notifications" = "通知を非表示にする"
 "Audio" = "オーディオ"
 "Normalize Volume" = "音量を正規化"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "プリセットへの変更は保存されていません。\r\n保存しますか？"
+"Save Preset" = "プリセットを保存"
+"Save" = "保存"
+"Cancel" = "キャンセル"

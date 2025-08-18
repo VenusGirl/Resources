@@ -116,3 +116,7 @@ countries: ro
 "Hide notifications" = "Ascunde notificările"
 "Audio" = "Audio"
 "Normalize Volume" = "Normalizează volumul"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Modificările aduse presetării nu sunt salvate.\r\nDoriți să le salvați?"
+"Save Preset" = "Salvează presetarea"
+"Save" = "Salvează"
+"Cancel" = "Anulează"

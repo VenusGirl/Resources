@@ -115,3 +115,7 @@ countries: ar co es mx
 "Hide notifications" = "Ocultar notificaciones"
 "Audio" = "Audio"
 "Normalize Volume" = "Normalizar volumen"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "No se han guardado los cambios en su preajuste.\r\n¿Desea guardarlos?"
+"Save Preset" = "Guardar preajuste"
+"Save" = "Guardar"
+"Cancel" = "Cancelar"

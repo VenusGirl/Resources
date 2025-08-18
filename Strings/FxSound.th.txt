@@ -116,3 +116,7 @@ countries: th
 "Hide notifications" = "ซ่อนการแจ้งเตือน"
 "Audio" = "เสียง"
 "Normalize Volume" = "ปรับระดับเสียงให้เท่ากัน"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "การเปลี่ยนแปลงพรีเซตของคุณยังไม่ได้รับการบันทึก\r\nคุณต้องการบันทึกหรือไม่?"
+"Save Preset" = "บันทึกพรีเซต"
+"Save" = "บันทึก"
+"Cancel" = "ยกเลิก"

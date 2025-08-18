@@ -115,3 +115,7 @@ countries: ru
 "Hide notifications" = "Скрыть уведомления"
 "Audio" = "Аудио"
 "Normalize Volume" = "Нормализовать громкость"
+"Changes to your preset are not saved.\r\nDo you want to save?" = "Изменения в этом шаблоне не были сохранены.\r\nХотите их сохранить?"
+"Save Preset" = "Сохранить шаблон"
+"Save" = "Сохранить"
+"Cancel" = "Отмена"
