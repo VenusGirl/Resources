@@ -119,3 +119,11 @@ countries: [enter list of 2-character country codes here!]
 "Save Preset" = "Save Preset"
 "Save" = "Save"
 "Cancel" = "Cancel"
+"Equalizer:" = "Equalizer:"
+"Master Gain: = "Master Gain:
+"Normalization:" = "Normalization:"
+"Filter Q:" = "Filter Q:"
+"Balance:" = "Balance:"
+"Left" = "Left"
+"Right" = "Right"
+"%d Bands" = "%d Bands"
