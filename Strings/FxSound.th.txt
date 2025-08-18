@@ -126,4 +126,4 @@ countries: th
 "Balance:" = "บาลานซ์:"
 "Left" = "ซ้าย"
 "Right" = "ขวา"
-"%d Bands" = "%d แถบ"
+" Bands" = " แถบ"

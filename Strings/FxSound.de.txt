@@ -125,4 +125,4 @@ countries: de at ch
 "Balance:" = "Balance:"
 "Left" = "Links"
 "Right" = "Rechts"
-"%d Bands" = "%d Bänder"
+" Bands" = " Bänder"

@@ -126,4 +126,4 @@ countries: ja
 "Balance:" = "バランス:"
 "Left" = "左"
 "Right" = "右"
-"%d Bands" = "%d バンド"
+" Bands" = " バンド"

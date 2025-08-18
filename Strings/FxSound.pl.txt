@@ -126,4 +126,4 @@ countries: pl
 "Balance:" = "Balans:"
 "Left" = "Lewo"
 "Right" = "Prawo"
-"%d Bands" = "%d pasm"
+" Bands" = " pasm"

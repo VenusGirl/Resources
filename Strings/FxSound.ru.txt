@@ -125,4 +125,4 @@ countries: ru
 "Balance:" = "Баланс:"
 "Left" = "Лево"
 "Right" = "Право"
-"%d Bands" = "%d полос"
+" Bands" = " полос"

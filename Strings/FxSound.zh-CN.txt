@@ -124,4 +124,4 @@ countries: cn sg
 "Balance:" = "声道平衡:"
 "Left" = "左"
 "Right" = "右"
-"%d Bands" = "%d 波段"
+" Bands" = " 波段"

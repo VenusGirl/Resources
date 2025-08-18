@@ -126,4 +126,4 @@ countries: nl be
 "Balance:" = "Balans:"
 "Left" = "Links"
 "Right" = "Rechts"
-"%d Bands" = "%d banden"
+" Bands" = " banden"

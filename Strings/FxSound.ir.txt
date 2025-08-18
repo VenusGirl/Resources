@@ -125,4 +125,4 @@ countries: [IR, FA]
 "Balance:" = "تعادل"
 "Left" = "چپ"
 "Right" = "راست"
-"%d Bands" = "%d باند"
+" Bands" = " باند"

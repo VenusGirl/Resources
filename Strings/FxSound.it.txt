@@ -126,4 +126,4 @@ countries: it
 "Balance:" = "Bilanciamento:"
 "Left" = "Sinistra"
 "Right" = "Destra"
-"%d Bands" = "%d bande"
+" Bands" = " bande"
