@@ -120,7 +120,7 @@ countries: kr
 "Save" = "저장"
 "Cancel" = "취소"
 "Equalizer:" = "이퀄라이저:"
-"Master Gain: = "마스터 게인:
+"Master Gain: = "마스터 게인:"
 "Normalization:" = "정규화:"
 "Filter Q:" = "필터 Q:"
 "Balance:" = "음균형:"
