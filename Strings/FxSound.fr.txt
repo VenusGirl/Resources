@@ -120,6 +120,7 @@ countries: fr
 "Save Preset" = "Enregistrer le préréglage"
 "Save" = "Enregistrer"
 "Cancel" = "Annuler"
+"Equalizer:" = "Égaliseur :"
 "Master Gain:" = "Volume principal :"
 "Normalization:" = "Normalisation :"
 "Filter Q:" = "Facteur Q du filtre :"

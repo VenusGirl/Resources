@@ -120,6 +120,7 @@ countries: ro
 "Save Preset" = "Salvează presetarea"
 "Save" = "Salvează"
 "Cancel" = "Anulează"
+"Equalizer:" = "Egalizator:"
 "Master Gain:" = "Volum principal:"
 "Normalization:" = "Normalizare:"
 "Filter Q:" = "Q filtru:"

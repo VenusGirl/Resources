@@ -119,6 +119,7 @@ countries: ba
 "Save Preset" = "Sačuvaj profil"
 "Save" = "Sačuvaj"
 "Cancel" = "Otkaži"
+"Equalizer:" = "Ekvilajzer:"
 "Master Gain:" = "Glavna glasnoća:"
 "Normalization:" = "Normalizacija:"
 "Filter Q:" = "Q filtra:"

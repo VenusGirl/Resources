@@ -120,6 +120,7 @@ countries: pl
 "Save Preset" = "Zapisz ustawienia"
 "Save" = "Zapisz"
 "Cancel" = "Anuluj"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Główna głośność:"
 "Normalization:" = "Normalizacja:"
 "Filter Q:" = "Q filtra:"

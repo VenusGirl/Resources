@@ -118,6 +118,7 @@ countries: cn sg
 "Save Preset" = "保存预设"
 "Save" = "保存"
 "Cancel" = "取消"
+"Equalizer:" = "均衡器:"
 "Master Gain:" = "主音量:"
 "Normalization:" = "标准化:"
 "Filter Q:" = "滤波器Q:"

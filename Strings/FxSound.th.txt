@@ -120,6 +120,7 @@ countries: th
 "Save Preset" = "บันทึกพรีเซต"
 "Save" = "บันทึก"
 "Cancel" = "ยกเลิก"
+"Equalizer:" = "อีควอไลเซอร์:"
 "Master Gain:" = "วอลุ่มหลัก:"
 "Normalization:" = "ปรับระดับเสียงให้เท่ากัน:"
 "Filter Q:" = "ค่า Q ของฟิลเตอร์:"

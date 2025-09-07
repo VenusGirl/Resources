@@ -120,6 +120,7 @@ countries: nl be
 "Save Preset" = "Preset opslaan"
 "Save" = "Opslaan"
 "Cancel" = "Annuleren"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Mastervolume:"
 "Normalization:" = "Normalisatie:"
 "Filter Q:" = "Filter-Q:"

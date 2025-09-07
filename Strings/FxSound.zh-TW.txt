@@ -118,6 +118,7 @@ countries: Taiwan
 "Save Preset" = "儲存預設"
 "Save" = "儲存"
 "Cancel" = "取消"
+"Equalizer:" = "等化器:"
 "Master Gain:" = "主音量:"
 "Normalization:" = "正規化:"
 "Filter Q:" = "濾波器Q:"

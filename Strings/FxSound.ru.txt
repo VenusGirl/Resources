@@ -119,10 +119,11 @@ countries: ru
 "Save Preset" = "Сохранить шаблон"
 "Save" = "Сохранить"
 "Cancel" = "Отмена"
-"Master Gain:" = "Основная громкость:"
+“Equalizer:” = “'Эквалайзер:”
+“Master Gain:” = “Основное усиление:”
 "Normalization:" = "Нормализация:"
-"Filter Q:" = "Q фильтра:"
+“Filter Q:” = “Q фильтр:”
 "Balance:" = "Баланс:"
-"Left" = "Лево"
-"Right" = "Право"
-" Bands" = " полос"
+“Left” = “Левый”
+“Right” = “Правый”
+" Bands" = " полосный"

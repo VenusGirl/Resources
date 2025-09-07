@@ -119,6 +119,7 @@ countries: [IR, FA]
 "Save Preset" = "ذخیره تنظیمات"
 "Save" = "ذخیره"
 "Cancel" = "لغو"
+"Equalizer:" = "اکولایزر"
 "Master Gain:" = "ولوم اصلی"
 "Normalization:" = "نرمال‌سازی"
 "Filter Q:" = "Q فیلتر"
