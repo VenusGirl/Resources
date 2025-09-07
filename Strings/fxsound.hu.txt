@@ -120,6 +120,7 @@ countries: hu
 "Save Preset" = "Előbeállítás mentése"
 "Save" = "Mentés"
 "Cancel" = "Mégse"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Fő hangerő:"
 "Normalization:" = "Normalizálás:"
 "Filter Q:" = "Szűrő Q:"

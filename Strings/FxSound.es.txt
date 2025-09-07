@@ -119,6 +119,7 @@ countries: ar co es mx
 "Save Preset" = "Guardar preajuste"
 "Save" = "Guardar"
 "Cancel" = "Cancelar"
+"Equalizer:" = "Ecualizador:"
 "Master Gain:" = "Volumen maestro:"
 "Normalization:" = "Normalización:"
 "Filter Q:" = "Q del filtro:"

@@ -119,6 +119,7 @@ countries: HR
 "Save Preset" = "Spremi postavku"
 "Save" = "Spremi"
 "Cancel" = "Odustani"
+"Equalizer:" = "Ekvilajzer:"
 "Master Gain:" = "Glavna glasnoća:"
 "Normalization:" = "Normalizacija:"
 "Filter Q:" = "Q filtra:"

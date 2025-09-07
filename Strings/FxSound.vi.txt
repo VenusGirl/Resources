@@ -120,6 +120,7 @@ countries: vn
 "Save Preset" = "Lưu cài đặt"
 "Save" = "Lưu"
 "Cancel" = "Hủy"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Âm lượng chính:"
 "Normalization:" = "Chuẩn hóa:"
 "Filter Q:" = "Q của bộ lọc:"

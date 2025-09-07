@@ -120,6 +120,7 @@ countries: id
 "Save Preset" = "Simpan Preset"
 "Save" = "Simpan"
 "Cancel" = "Batal"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Volume utama:"
 "Normalization:" = "Normalisasi:"
 "Filter Q:" = "Filter Q:"

@@ -119,6 +119,7 @@ countries: ua
 "Save Preset" = "Зберегти шаблон"
 "Save" = "Зберегти"
 "Cancel" = "Скасувати"
+"Equalizer:" = "Еквалайзер:"
 "Master Gain:" = "Основна гучність:"
 "Normalization:" = "Нормалізація:"
 "Filter Q:" = "Q фільтра:"

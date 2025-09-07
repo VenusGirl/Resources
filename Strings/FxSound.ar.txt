@@ -121,6 +121,7 @@ countries: EG sa
 "Save Preset" = "حفظ الإعداد المسبق"
 "Save" = "حفظ"
 "Cancel" = "إلغاء"
+"Equalizer:" = ":الإكولايزر"
 "Master Gain:" = "مستوى الصوت الرئيسي"
 "Normalization:" = "تطبيع"
 "Filter Q:" = "Q الفلتر"

@@ -119,6 +119,7 @@ countries: de at ch
 "Save Preset" = "Voreinstellung speichern"
 "Save" = "Speichern"
 "Cancel" = "Abbrechen"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Master-Lautstärke:"
 "Normalization:" = "Normalisierung:"
 "Filter Q:" = "Filter-Q:"

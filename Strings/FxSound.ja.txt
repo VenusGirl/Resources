@@ -120,6 +120,7 @@ countries: ja
 "Save Preset" = "プリセットを保存"
 "Save" = "保存"
 "Cancel" = "キャンセル"
+"Equalizer:" = "イコライザー:"
 "Master Gain:" = "マスターボリューム:"
 "Normalization:" = "ノーマライズ:"
 "Filter Q:" = "フィルターQ:"

@@ -120,6 +120,7 @@ countries: se
 "Save Preset" = "Spara förinställning"
 "Save" = "Spara"
 "Cancel" = "Avbryt"
+"Equalizer:" = "Equalizer:"
 "Master Gain:" = "Mastervolym:"
 "Normalization:" = "Normalisering:"
 "Filter Q:" = "Filter-Q:"
