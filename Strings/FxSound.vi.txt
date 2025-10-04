@@ -128,3 +128,5 @@ countries: vn
 "Left" = "Trái"
 "Right" = "Phải"
 " Bands" = " dải"
+"Restore Defaults" = "Khôi phục mặc định"
+"Automatic updates" = "Cập nhật tự động"

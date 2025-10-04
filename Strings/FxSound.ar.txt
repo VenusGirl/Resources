@@ -129,3 +129,6 @@ countries: EG sa
 "Left" = "يسار"
 "Right" = "يمين"
 " Bands" = " باند"
+"Restore Defaults" = "استعادة الإعدادات الافتراضية"
+"Automatic updates" = "التحديثات التلقائية"
+

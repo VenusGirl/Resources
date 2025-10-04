@@ -128,3 +128,5 @@ countries: pl
 "Left" = "Lewo"
 "Right" = "Prawo"
 " Bands" = " pasm"
+"Restore Defaults" = "Przywróć ustawienia domyślne"
+"Automatic updates" = "Automatyczne aktualizacje"

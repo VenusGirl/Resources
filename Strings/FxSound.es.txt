@@ -127,3 +127,5 @@ countries: ar co es mx
 "Left" = "Izquierda"
 "Right" = "Derecha"
 " Bands" = " bandas"
+"Restore Defaults" = "Restaurar valores predeterminados"
+"Automatic updates" = "Actualizaciones automáticas"

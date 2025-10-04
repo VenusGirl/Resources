@@ -128,3 +128,5 @@ countries: th
 "Left" = "ซ้าย"
 "Right" = "ขวา"
 " Bands" = " แถบ"
+"Restore Defaults" = "คืนค่าเริ่มต้น"
+"Automatic updates" = "อัปเดตอัตโนมัติ"

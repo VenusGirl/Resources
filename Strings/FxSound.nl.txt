@@ -128,3 +128,5 @@ countries: nl be
 "Left" = "Links"
 "Right" = "Rechts"
 " Bands" = " banden"
+"Restore Defaults" = "Standaardinstellingen herstellen"
+"Automatic updates" = "Automatische updates"

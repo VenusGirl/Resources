@@ -127,3 +127,5 @@ countries: ua
 "Left" = "Ліво"
 "Right" = "Право"
 " Bands" = " смуг"
+"Restore Defaults" = "Відновити типові налаштування"
+"Automatic updates" = "Автоматичні оновлення"

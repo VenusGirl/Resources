@@ -128,3 +128,5 @@ countries: ro
 "Left" = "Stânga"
 "Right" = "Dreapta"
 " Bands" = " benzi"
+"Restore Defaults" = "Restabilește valorile implicite"
+"Automatic updates" = "Actualizări automate"

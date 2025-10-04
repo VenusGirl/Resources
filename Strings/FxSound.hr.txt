@@ -127,3 +127,5 @@ countries: HR
 "Left" = "Lijevo"
 "Right" = "Desno"
 " Bands" = " pojaseva"
+"Restore Defaults" = "Vrati zadane postavke"
+"Automatic updates" = "Automatska ažuriranja"

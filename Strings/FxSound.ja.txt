@@ -128,3 +128,5 @@ countries: ja
 "Left" = "左"
 "Right" = "右"
 " Bands" = " バンド"
+"Restore Defaults" = "デフォルトに戻す"
+"Automatic updates" = "自動更新"

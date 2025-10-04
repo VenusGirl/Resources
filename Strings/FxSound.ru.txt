@@ -127,3 +127,5 @@ countries: ru
 “Left” = “Левый”
 “Right” = “Правый”
 " Bands" = " полосный"
+"Restore Defaults" = "Восстановить значения по умолчанию"
+"Automatic updates" = "Автоматические обновления"

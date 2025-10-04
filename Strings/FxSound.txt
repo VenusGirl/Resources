@@ -127,3 +127,5 @@ countries: [enter list of 2-character country codes here!]
 "Left" = "Left"
 "Right" = "Right"
 " Bands" = " Bands"
+"Restore Defaults" = "Restore Defaults"
+"Automatic updates" = "Automatic updates"
