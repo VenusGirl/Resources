@@ -127,5 +127,5 @@ countries: HR
 "Left" = "Lijevo"
 "Right" = "Desno"
 " Bands" = " pojaseva"
-"Restore Defaults" = "Alapbeállítások visszaállítása"
-"Automatic updates" = "Automatikus frissítések"
+"Restore Defaults" = "Vrati zadane postavke"
+"Automatic updates" = "Automatska ažuriranja"
