@@ -128,3 +128,5 @@ countries: id
 "Left" = "Kiri"
 "Right" = "Kanan"
 " Bands" = " pita"
+"Restore Defaults" = "Kembalikan ke setelan awal"
+"Automatic updates" = "Pembaruan otomatis"

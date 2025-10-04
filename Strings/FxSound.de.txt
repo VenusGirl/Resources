@@ -127,3 +127,5 @@ countries: de at ch
 "Left" = "Links"
 "Right" = "Rechts"
 " Bands" = " Bänder"
+"Restore Defaults" = "Standardwerte wiederherstellen"
+"Automatic updates" = "Automatische Updates"

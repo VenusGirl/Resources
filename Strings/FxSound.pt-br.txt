@@ -128,3 +128,5 @@ countries: br
 "Left" = "Esquerda"
 "Right" = "Direita"
 " Bands" = " bandas"
+"Restore Defaults" = "Restaurar padrões"
+"Automatic updates" = "Atualizações automáticas"

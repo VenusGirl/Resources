@@ -128,3 +128,5 @@ countries: hu
 "Left" = "Bal"
 "Right" = "Jobb"
 " Bands" = " sáv"
+"Restore Defaults" = "Alapbeállítások visszaállítása"
+"Automatic updates" = "Automatikus frissítések"

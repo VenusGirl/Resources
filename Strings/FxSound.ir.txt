@@ -127,3 +127,5 @@ countries: [IR, FA]
 "Left" = "چپ"
 "Right" = "راست"
 " Bands" = " باند"
+"Restore Defaults" = "بازگرداندن تنظیمات پیش‌فرض"
+"Automatic updates" = "به‌روزرسانی خودکار"

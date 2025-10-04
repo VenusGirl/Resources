@@ -128,3 +128,5 @@ countries: se
 "Left" = "Vänster"
 "Right" = "Höger"
 " Bands" = " band"
+"Restore Defaults" = "Återställ standardinställningar"
+"Automatic updates" = "Automatiska uppdateringar"

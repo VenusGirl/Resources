@@ -128,3 +128,5 @@ countries: it
 "Left" = "Sinistra"
 "Right" = "Destra"
 " Bands" = " bande"
+"Restore Defaults" = "Ripristina impostazioni predefinite"
+"Automatic updates" = "Aggiornamenti automatici"

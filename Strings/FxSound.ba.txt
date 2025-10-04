@@ -127,3 +127,5 @@ countries: ba
 "Left" = "Lijevo"
 "Right" = "Desno"
 " Bands" = " opsega"
+"Restore Defaults" = "Vrati zadane postavke"
+"Automatic updates" = "Automatska ažuriranja"

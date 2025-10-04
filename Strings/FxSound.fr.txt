@@ -128,3 +128,5 @@ countries: fr
 "Left" = "Gauche"
 "Right" = "Droite"
 " Bands" = " bandes"
+"Restore Defaults" = "Restaurer les paramètres par défaut"
+"Automatic updates" = "Mises à jour automatiques"

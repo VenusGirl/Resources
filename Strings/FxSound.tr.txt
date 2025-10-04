@@ -128,3 +128,5 @@ countries: tr
 "Left" = "Sol"
 "Right" = "Sağ"
 " Bands" = " bant"
+"Restore Defaults" = "Varsayılanları geri yükle"
+"Automatic updates" = "Otomatik güncellemeler"

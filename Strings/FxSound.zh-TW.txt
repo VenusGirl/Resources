@@ -126,3 +126,5 @@ countries: Taiwan
 "Left" = "左"
 "Right" = "右"
 " Bands" = " 頻段"
+"Restore Defaults" = "恢復預設設定"
+"Automatic updates" = "自動更新"
