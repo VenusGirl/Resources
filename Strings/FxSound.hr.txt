@@ -114,7 +114,7 @@ countries: HR
 "Newly connected output device" = "Novo povezani izlazni uređaj"
 "Hide notifications" = "Sakrij obavijesti"
 "Audio" = "Hang"
-"Normalize Volume" = "Hangerő normalizálása"
+"Normalize Volume" = "Normaliziraj Zvuk"
 "Changes to your preset are not saved.\r\nDo you want to save?" = "Promjene za vaš preset nisu sačuvane.\r\nŽelite li ih spremiti?"
 "Save Preset" = "Spremi postavku"
 "Save" = "Spremi"
