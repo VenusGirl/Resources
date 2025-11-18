@@ -129,3 +129,7 @@ countries: [enter list of 2-character country codes here!]
 " Bands" = " Bands"
 "Restore Defaults" = "Restore Defaults"
 "Automatic updates" = "Automatic updates"
+"Always On Top" = "Always On Top"
+"Theme" = "Theme"
+"Dark" = "Dark"
+"Light" = "Light"

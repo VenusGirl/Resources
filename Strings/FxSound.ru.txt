@@ -129,3 +129,7 @@ countries: ru
 " Bands" = " полосный"
 "Restore Defaults" = "Восстановить значения по умолчанию"
 "Automatic updates" = "Автоматические обновления"
+"Always On Top" = "Всегда сверху"
+"Theme" = "Тема"
+"Dark" = "Тёмная"
+"Light" = "Светлая"

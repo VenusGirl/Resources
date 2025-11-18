@@ -130,3 +130,7 @@ countries: ja
 " Bands" = " バンド"
 "Restore Defaults" = "デフォルトに戻す"
 "Automatic updates" = "自動更新"
+"Always On Top" = "常に最前面に表示"
+"Theme" = "テーマ"
+"Dark" = "ダーク"
+"Light" = "ライト"

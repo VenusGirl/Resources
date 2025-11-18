@@ -130,3 +130,7 @@ countries: hu
 " Bands" = " sáv"
 "Restore Defaults" = "Alapbeállítások visszaállítása"
 "Automatic updates" = "Automatikus frissítések"
+"Always On Top" = "Mindig felül"
+"Theme" = "Téma"
+"Dark" = "Sötét"
+"Light" = "Világos"

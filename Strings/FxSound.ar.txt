@@ -131,4 +131,7 @@ countries: EG sa
 " Bands" = " باند"
 "Restore Defaults" = "استعادة الإعدادات الافتراضية"
 "Automatic updates" = "التحديثات التلقائية"
-
+"Always On Top" = "دائماً في الأعلى"
+"Theme" = "السمة"
+"Dark" = "داكن"
+"Light" = "فاتح"

@@ -128,3 +128,7 @@ countries: Taiwan
 " Bands" = " 頻段"
 "Restore Defaults" = "恢復預設設定"
 "Automatic updates" = "自動更新"
+"Always On Top" = "永遠置頂"
+"Theme" = "主題"
+"Dark" = "深色"
+"Light" = "淺色"

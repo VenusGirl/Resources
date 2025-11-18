@@ -130,3 +130,7 @@ countries: id
 " Bands" = " pita"
 "Restore Defaults" = "Kembalikan ke setelan awal"
 "Automatic updates" = "Pembaruan otomatis"
+"Always On Top" = "Selalu di atas"
+"Theme" = "Tema"
+"Dark" = "Gelap"
+"Light" = "Terang"

@@ -130,3 +130,7 @@ countries: se
 " Bands" = " band"
 "Restore Defaults" = "Återställ standardinställningar"
 "Automatic updates" = "Automatiska uppdateringar"
+"Always On Top" = "Alltid överst"
+"Theme" = "Tema"
+"Dark" = "Mörkt"
+"Light" = "Ljust"

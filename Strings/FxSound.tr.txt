@@ -130,3 +130,7 @@ countries: tr
 " Bands" = " bant"
 "Restore Defaults" = "Varsayılanları geri yükle"
 "Automatic updates" = "Otomatik güncellemeler"
+"Always On Top" = "Her zaman üstte"
+"Theme" = "Tema"
+"Dark" = "Koyu"
+"Light" = "Açık"

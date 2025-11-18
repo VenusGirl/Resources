@@ -129,3 +129,7 @@ countries: [IR, FA]
 " Bands" = " باند"
 "Restore Defaults" = "بازگرداندن تنظیمات پیش‌فرض"
 "Automatic updates" = "به‌روزرسانی خودکار"
+"Always On Top" = "همیشه در بالا"
+"Theme" = "تم"
+"Dark" = "تیره"
+"Light" = "روشن"

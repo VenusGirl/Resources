@@ -130,3 +130,7 @@ countries: th
 " Bands" = " แถบ"
 "Restore Defaults" = "คืนค่าเริ่มต้น"
 "Automatic updates" = "อัปเดตอัตโนมัติ"
+"Always On Top" = "แสดงไว้ด้านบนเสมอ"
+"Theme" = "ธีม"
+"Dark" = "มืด"
+"Light" = "สว่าง"

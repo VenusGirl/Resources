@@ -130,3 +130,7 @@ countries: nl be
 " Bands" = " banden"
 "Restore Defaults" = "Standaardinstellingen herstellen"
 "Automatic updates" = "Automatische updates"
+"Always On Top" = "Altijd bovenaan"
+"Theme" = "Thema"
+"Dark" = "Donker"
+"Light" = "Licht"

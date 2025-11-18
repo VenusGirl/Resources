@@ -129,3 +129,7 @@ countries: ua
 " Bands" = " смуг"
 "Restore Defaults" = "Відновити типові налаштування"
 "Automatic updates" = "Автоматичні оновлення"
+"Always On Top" = "Завжди зверху"
+"Theme" = "Тема"
+"Dark" = "Темна"
+"Light" = "Світла"

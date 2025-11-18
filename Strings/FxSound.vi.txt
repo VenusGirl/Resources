@@ -130,3 +130,7 @@ countries: vn
 " Bands" = " dải"
 "Restore Defaults" = "Khôi phục mặc định"
 "Automatic updates" = "Cập nhật tự động"
+"Always On Top" = "Luôn ở trên cùng"
+"Theme" = "Giao diện"
+"Dark" = "Tối"
+"Light" = "Sáng"

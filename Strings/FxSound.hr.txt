@@ -129,3 +129,7 @@ countries: HR
 " Bands" = " pojaseva"
 "Restore Defaults" = "Vrati zadane postavke"
 "Automatic updates" = "Automatska ažuriranja"
+"Always On Top" = "Uvijek na vrhu"
+"Theme" = "Tema"
+"Dark" = "Tamna"
+"Light" = "Svijetla"
