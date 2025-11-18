@@ -130,3 +130,7 @@ countries: it
 " Bands" = " bande"
 "Restore Defaults" = "Ripristina impostazioni predefinite"
 "Automatic updates" = "Aggiornamenti automatici"
+"Always On Top" = "Sempre in primo piano"
+"Theme" = "Tema"
+"Dark" = "Scuro"
+"Light" = "Chiaro"

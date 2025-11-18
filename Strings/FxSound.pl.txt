@@ -130,3 +130,7 @@ countries: pl
 " Bands" = " pasm"
 "Restore Defaults" = "Przywróć ustawienia domyślne"
 "Automatic updates" = "Automatyczne aktualizacje"
+"Always On Top" = "Zawsze na wierzchu"
+"Theme" = "Motyw"
+"Dark" = "Ciemny"
+"Light" = "Jasny"

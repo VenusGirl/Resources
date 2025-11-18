@@ -129,3 +129,7 @@ countries: ar co es mx
 " Bands" = " bandas"
 "Restore Defaults" = "Restaurar valores predeterminados"
 "Automatic updates" = "Actualizaciones automáticas"
+"Always On Top" = "Siempre arriba"
+"Theme" = "Tema"
+"Dark" = "Oscuro"
+"Light" = "Claro"

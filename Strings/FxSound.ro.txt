@@ -130,3 +130,7 @@ countries: ro
 " Bands" = " benzi"
 "Restore Defaults" = "Restabilește valorile implicite"
 "Automatic updates" = "Actualizări automate"
+"Always On Top" = "Întotdeauna deasupra"
+"Theme" = "Temă"
+"Dark" = "Întunecat"
+"Light" = "Luminos"

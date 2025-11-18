@@ -129,3 +129,7 @@ countries: kr
 " Bands" = " 밴드"
 "Restore Defaults" = "기본값 복원"
 "Automatic updates" = "자동 업데이트"
+"Always On Top" = "항상 위에 두기"
+"Theme" = "테마"
+"Dark" = "다크"
+"Light" = "라이트"

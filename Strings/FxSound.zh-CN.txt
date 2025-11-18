@@ -128,3 +128,7 @@ countries: cn sg
 " Bands" = " 波段"
 "Restore Defaults" = "恢复默认设置"
 "Automatic updates" = "自动更新"
+"Always On Top" = "始终置顶"
+"Theme" = "主题"
+"Dark" = "深色"
+"Light" = "浅色"

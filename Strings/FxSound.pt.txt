@@ -129,3 +129,7 @@ countries: pt
 " Bands" = " bandas"
 "Restore Defaults" = "Restaurar predefinições"
 "Automatic updates" = "Atualizações automáticas"
+"Always On Top" = "Sempre no topo"
+"Theme" = "Tema"
+"Dark" = "Escuro"
+"Light" = "Claro"
