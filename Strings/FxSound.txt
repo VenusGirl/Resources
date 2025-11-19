@@ -35,6 +35,7 @@ countries: [enter list of 2-character country codes here!]
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Widens the left-right balance\r\nfor expansive, wide sound"
 "Increases overall volume and balance\r\nwith responsive processing" = "Increases overall volume and balance\r\nwith responsive processing"
 "Boosts low end for full,\r\nimpactful response" = "Boosts low end for full,\r\nimpactful response"
+"Hyper-low Bass - First band for very low frequencies down to 20 Hz." = "Hyper-low Bass - First band for very low frequencies down to 20 Hz."
 "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess." = "Super-low Bass. Increase this for more rumble and \"thump\", decrease if there\'s too much boominess."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming."
 "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled." = "The low end of your mid-range. Increase this to make vocals sound rich and warm, decrease it to help control instruments that sound loud and muffled."
