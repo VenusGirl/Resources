@@ -8,7 +8,7 @@ countries: kr
 "Error in system audio configuration. Unable to run FxSound" = "시스템 오디오 구성에 오류가 있습니다. FxSound를 실행할 수 없습니다"
 "OK" = "확인"
 "Click here to see what\'s new on this version!" = "이 버전의 새로운 기능을 보려면 여기를 클릭하세요!"
-"FxSound in system tray\r\nClick FxSound icon to reopen" = "시스템 트레이의 FxSound\r\n다시 열려면 FxSound 아이콘을 클릭하하세요"
+"FxSound in system tray\r\nClick FxSound icon to reopen" = "시스템 트레이의 FxSound\r\n다시 열려면 FxSound 아이콘을 클릭하세요"
 "Thanks for using FxSound! Would you be\r\ninterested in helping us by taking a quick 4 minute\r\nsurvey so we can make FxSound better?" = "FxSound를 사용해 주셔서 감사합니다!\r\n더 나은 FxSound를 만들기 위해 4분 정도 간단한\r\n설문조사에 참여하여 도와주시겠어요?"
 "Take the survey." = "설문조사에 참여하세요."
 "Changes to your preset are not saved.\r\nDo you want to exit?" = "변경된 프리셋이 저장되지 않았습니다.\r\n종료하시겠습니까?"
