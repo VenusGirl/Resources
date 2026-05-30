@@ -1,5 +1,6 @@
-language: [پارسی]
-countries: [IR, FA]
+language: Persian
+countries: ir
+
 "Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = ".ﺪﯿﻨﮐ ﯽﺳﺭﺮﺑ ﺍﺭ ﺮﯾﺯ ﺩﺭﺍﻮﻣ ًﺎﻔﻄﻟ ،ﻢﯿﻨﮐ ﻉﻭﺮﺷ ﻪﮑﻨﯾﺍ ﺯﺍ ﻞﺒﻗr\n\.ﺩﺭﺍﺩ ﺩﻮﺟﻭ ﺎﻤﺷ ﺶﺨﭘ ﻩﺎﮕﺘﺳﺩ ﺕﺎﻤﯿﻈﻨﺗ ﺭﺩ ﯽﻠﮑﺸﻣ !ﻩﻭﺍ"
 "troubleshooting steps here." = ".ﺪﯿﻫﺩ ﻡﺎﺠﻧﺍ ﺎﺠﻨﯾﺍ ﺍﺭ ﯽﺑﺎﯾﺐﯿﻋ ﻞﺣﺍﺮﻣ"
 " if you\'re still having problems." = ".ﺪﯾﺭﺍﺩ ﻞﮑﺸﻣ ﻥﺎﻨﭽﻤﻫ ﺮﮔﺍ"
