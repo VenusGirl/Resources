@@ -138,3 +138,4 @@ countries: ua
 "Select preset" = "Вибрати пресет"
 "Prioritize new output devices" = "Надавати пріоритет новим пристроям виводу"
 "Use Shift+Up or Shift+Down to change the device priority" = "Використовуйте Shift+Up або Shift+Down, щоб змінити пріоритет пристрою"
+"Audio processing is not available over Remote Desktop" = "Обробка аудіо недоступна через віддалений робочий стіл"
