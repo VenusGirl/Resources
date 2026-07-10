@@ -137,3 +137,4 @@
 "Equalizer" = "Equalizer"
 "Prioritize new output devices" = "Nieuwe uitvoerapparaten prioriteit geven"
 "Use Shift+Up or Shift+Down to change the device priority" = "Gebruik Shift+Up of Shift+Down om de apparaatprioriteit te wijzigen"
+"Audio processing is not available over Remote Desktop" = "Audioverwerking is niet beschikbaar via extern bureaublad"

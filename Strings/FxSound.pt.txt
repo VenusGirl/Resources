@@ -139,3 +139,4 @@ countries: pt
 "Equalizer" = "Equalizador"
 "Prioritize new output devices" = "Dar prioridade a novos dispositivos de saída"
 "Use Shift+Up or Shift+Down to change the device priority" = "Use Shift+Up ou Shift+Down para alterar a prioridade do dispositivo"
+"Audio processing is not available over Remote Desktop" = "O processamento de áudio não está disponível através do Ambiente de Trabalho Remoto"
