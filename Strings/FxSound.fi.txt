@@ -140,3 +140,4 @@ countries: fi
 "Prioritize new output devices" = "Priorisoi uudet ulostulolaitteet"
 "Use Shift+Up or Shift+Down to change the device priority" = "Muuta laitteen prioriteettia Shift+Ylös- tai Shift+Alas-näppäimellä"
 "Audio processing is not available over Remote Desktop" = "Äänenkäsittely ei ole käytettävissä etätyöpöydän kautta"
+"Volume Leveling:" = "Äänenvoimakkuuden tasoitus:"
