@@ -140,3 +140,4 @@ countries: ru
 "Prioritize new output devices" = "Приоритет для новых устройств вывода"
 "Use Shift+Up or Shift+Down to change the device priority" = "Использовать Shift+Up или Shift+Down, для изменения приоритета устройства"
 "Audio processing is not available over Remote Desktop" = "Обработка аудио недоступна через удалённый рабочий стол"
+"Volume Leveling:" = "Выравнивание громкости:"
